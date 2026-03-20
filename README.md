@@ -14,8 +14,8 @@ Note: The Clipboard versions will automatically copy the retrieved key to your c
 
 If you are on Newer Windows and get error message means your PC uses a Digital License (Digital Entitlement). This happens if:
     You upgraded to Windows 10/11 for free.
-    You bought Windows digitally from the Microsoft Store.
-    You activated Windows using a HWID method (like MAS).
+    You bought Windows digitally from the Microsoft Store.  
+    You activated Windows using a HWID method (like [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)).
 
 What to do: You don't need a 25-character key. If you ever reinstall Windows, just click "I don't have a product key" during installation. Once you connect to the internet (or log in with your Microsoft account), Windows will activate automatically!
 <br>
@@ -36,6 +36,6 @@ What to do: You don't need a 25-character key. If you ever reinstall Windows, ju
 Αν έχετε Νεότερα Windows και δείτε μήνυμα λάθους, σημαίνει ότι ο υπολογιστής σας χρησιμοποιεί Ψηφιακή Άδεια (Digital License). Αυτό συμβαίνει αν:
     Αναβαθμίσατε δωρεάν τον υπολογιστή σας σε Windows 10/11.
     Αγοράσατε τα Windows ψηφιακά από το Microsoft Store.
-    Ενεργοποιήσατε τα Windows μέσω HWID μέθοδο (π.χ. με το MAS).
+    Ενεργοποιήσατε τα Windows μέσω HWID μέθοδο (π.χ. με το [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)).
 
 Τι πρέπει να κάνετε: Δεν χρειάζεστε κάποιον 25-ψήφιο κωδικό. Αν κάνετε ποτέ format, επιλέξτε "Δεν έχω αριθμό κλειδί προϊόντος" κατά την εγκατάσταση. Μόλις συνδεθείτε στο ίντερνετ (ή βάλετε τον Microsoft λογαριασμό σας), τα Windows θα ενεργοποιηθούν αυτόματα!
