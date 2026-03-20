@@ -8,7 +8,7 @@ Choose the correct script based on your Windows version:
 
     For Windows XP, Vista, and 7: Download the GetWindowsKey_7_Older script.
 
-    For Windows 8, 10, and 11: Download the GetWindowsKey_8_10_11 script.
+    For Windows 8, 10, and 11: Download the GetWindowsKey_8_8.1_10_11 script.
 
 Note: The Clipboard versions will automatically copy the retrieved key to your clipboard for easy pasting! The Simple versions will only display it on your screen.
 
@@ -29,7 +29,7 @@ What to do: You don't need a 25-character key. If you ever reinstall Windows, ju
 
     Για Windows XP, Vista και 7: Κατεβάστε το αρχείο GetWindowsKey_7_Older.
 
-    Για Windows 8, 8.1, 10 και 11: Κατεβάστε το αρχείο GetWindowsKey_8_10_11.
+    Για Windows 8, 8.1, 10 και 11: Κατεβάστε το αρχείο GetWindowsKey_8_8.1_10_11.
 
 Σημείωση: Οι εκδόσεις Clipboard αντιγράφουν αυτόματα το κλειδί στο πρόχειρο για να κάνετε κατευθείαν Επικόλληση! Οι εκδόσεις Simple απλώς το εμφανίζουν στην οθόνη.
 
