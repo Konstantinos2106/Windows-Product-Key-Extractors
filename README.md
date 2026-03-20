@@ -10,7 +10,7 @@ Choose the correct script based on your Windows version:
 
     For Windows 8, 10, and 11: Download the GetWindowsKey_8_8.1_10_11 script.
 
-Note: The Clipboard versions will automatically copy the retrieved key to your clipboard for easy pasting! The Simple versions will only display it on your screen.
+Note: The [Clipboard](https://github.com/Konstantinos2106/Windows-Product-Key-Extractors/raw/refs/heads/main/GetWindowsKey_8_8.1_10_11_Clipboard.vbs) versions will automatically copy the retrieved key to your clipboard for easy pasting! The [Simple](https://github.com/Konstantinos2106/Windows-Product-Key-Extractors/raw/refs/heads/main/GetWindowsKey_8_8.1_10_11_Simple.vbs) versions will only display it on your screen.
 
 If you are on Newer Windows and get error message means your PC uses a Digital License (Digital Entitlement). This happens if:
     You upgraded to Windows 10/11 for free.
@@ -31,7 +31,7 @@ What to do: You don't need a 25-character key. If you ever reinstall Windows, ju
 
     Για Windows 8, 8.1, 10 και 11: Κατεβάστε το αρχείο GetWindowsKey_8_8.1_10_11.
 
-Σημείωση: Οι εκδόσεις Clipboard αντιγράφουν αυτόματα το κλειδί στο πρόχειρο για να κάνετε κατευθείαν Επικόλληση! Οι εκδόσεις Simple απλώς το εμφανίζουν στην οθόνη.
+Σημείωση: Οι εκδόσεις [Clipboard](https://github.com/Konstantinos2106/Windows-Product-Key-Extractors/raw/refs/heads/main/GetWindowsKey_8_8.1_10_11_Clipboard.vbs) αντιγράφουν αυτόματα το κλειδί στο πρόχειρο για να κάνετε κατευθείαν Επικόλληση! Οι εκδόσεις [Simple](https://github.com/Konstantinos2106/Windows-Product-Key-Extractors/raw/refs/heads/main/GetWindowsKey_8_8.1_10_11_Simple.vbs) απλώς το εμφανίζουν στην οθόνη.
 
 Αν έχετε Νεότερα Windows και δείτε μήνυμα λάθους, σημαίνει ότι ο υπολογιστής σας χρησιμοποιεί Ψηφιακή Άδεια (Digital License). Αυτό συμβαίνει αν:
     Αναβαθμίσατε δωρεάν τον υπολογιστή σας σε Windows 10/11.
