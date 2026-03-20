@@ -1,6 +1,5 @@
 # Windows-Product-Key-Extractors
 <b>VBScript to extract Windows product key</b>
-<b>VBScript για εξαγωγή του κλειδιού προϊόντος των Windows</b>
 <br>
 These VBScripts help you retrieve your Windows Product Key quickly and safely.
 Microsoft changed how Product Keys are stored over the years. Older versions of Windows (XP, Vista, 7) encrypted the key inside the Windows Registry. Modern versions (Windows 8, 8.1, 10, 11) embed the key directly into the motherboard's BIOS/UEFI. 
@@ -21,6 +20,7 @@ If you are on Newer Windows and get error message means your PC uses a Digital L
 What to do: You don't need a 25-character key. If you ever reinstall Windows, just click "I don't have a product key" during installation. Once you connect to the internet (or log in with your Microsoft account), Windows will activate automatically!
 <br>
 <br>
+<b>VBScript για εξαγωγή του κλειδιού προϊόντος των Windows</b>
 Αυτά τα VBScripts σας βοηθούν να βρείτε το Product Key των Windows σας γρήγορα και με ασφάλεια.
 Η Microsoft άλλαξε τον τρόπο αποθήκευσης των κλειδιών με την πάροδο των ετών. Οι παλαιότερες εκδόσεις (XP, Vista, 7) έκρυβαν το κλειδί κρυπτογραφημένο μέσα στη Registry. Οι σύγχρονες εκδόσεις (Windows 8, 8.1, 10, 11) το ενσωματώνουν απευθείας στο BIOS/UEFI της μητρικής πλακέτας. Γι' αυτό, χρειαζόμαστε διαφορετικό κώδικα ανάλογα με το σύστημα.
 
